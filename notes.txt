@@ -1,0 +1,14 @@
+npm init -y for npm 
+that mean-npm installation yes
+
+now we install :express,mongooes,dotenv
+
+for this we use-
+npm install express mongoose dotenv
+
+express- for web framwork , to build api easy and having routing system
+mongooes- use to interact with database
+dotenv-acess enviroment variable
+we use npm install on root folder for easy deployment 
+
+now create a file name called sever.js which is the entry point of the api
